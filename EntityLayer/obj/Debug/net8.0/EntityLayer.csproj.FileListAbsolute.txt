@@ -1,0 +1,15 @@
+D:\Portfolio\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+D:\Portfolio\EntityLayer\bin\Debug\net8.0\EntityLayer.runtimeconfig.json
+D:\Portfolio\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+D:\Portfolio\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
+D:\Portfolio\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
